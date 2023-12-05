@@ -1,0 +1,51 @@
+#find-pw .hint-select {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+#find-pw .hint-select p {
+    font-size: 12px;
+}
+
+#find-pw .hint-select select {
+    padding: 8px;
+}
+
+#find-pw .hint-select input {
+    padding: 8px;
+}
+
+#find-pw .hint-select .lab {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
+
+// 질문
+// -------------------------------------------------------
+#find-pw .hint-select .query {
+    margin-bottom: 16px;
+}
+
+#find-pw .hint-select .query select {
+    width: calc(100% - 44px);
+}
+
+#find-pw .hint-select .query label {
+    margin-right: 12px;
+}
+// -------------------------------------------------------
+
+// 질문
+// -------------------------------------------------------
+#find-pw .hint-select .answer label {
+    margin-right: 12px;
+}
+
+#find-pw .hint-select .answer input {
+    width: calc(100% - 44px);
+}
+// -------------------------------------------------------

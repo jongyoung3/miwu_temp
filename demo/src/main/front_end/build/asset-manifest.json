@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miwu/static/css/main.208defb3.css",
+    "main.js": "/miwu/static/js/main.db8b1ddc.js",
+    "static/js/787.22edae46.chunk.js": "/miwu/static/js/787.22edae46.chunk.js",
+    "static/media/NotoSansKR-Thin.ttf": "/miwu/static/media/NotoSansKR-Thin.3c76aeeeb0d5302e0042.ttf",
+    "static/media/NotoSansKR-ExtraLight.ttf": "/miwu/static/media/NotoSansKR-ExtraLight.a8d29999646a399fbca4.ttf",
+    "static/media/NotoSansKR-Light.ttf": "/miwu/static/media/NotoSansKR-Light.eef1c4b85baf52cc28a7.ttf",
+    "static/media/NotoSansKR-Regular.ttf": "/miwu/static/media/NotoSansKR-Regular.9bc92a36ed81392f698b.ttf",
+    "static/media/NotoSansKR-Bold.ttf": "/miwu/static/media/NotoSansKR-Bold.f064e139058bfd9df2fb.ttf",
+    "static/media/NotoSansKR-Medium.ttf": "/miwu/static/media/NotoSansKR-Medium.b9d6e1b3e7a3d63546cc.ttf",
+    "static/media/NotoSansKR-ExtraBold.ttf": "/miwu/static/media/NotoSansKR-ExtraBold.a30f1f0b3b461fff07a7.ttf",
+    "static/media/NotoSansKR-Black.ttf": "/miwu/static/media/NotoSansKR-Black.3a04960e264ac5544a85.ttf",
+    "index.html": "/miwu/index.html",
+    "main.208defb3.css.map": "/miwu/static/css/main.208defb3.css.map",
+    "main.db8b1ddc.js.map": "/miwu/static/js/main.db8b1ddc.js.map",
+    "787.22edae46.chunk.js.map": "/miwu/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208defb3.css",
+    "static/js/main.db8b1ddc.js"
+  ]
+}

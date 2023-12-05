@@ -1,0 +1,52 @@
+#login {
+    display: flex;
+    flex-direction: column;
+    margin: 0px auto 60px auto;
+
+    max-width: 1200px;
+    width: 100%;
+}
+
+#login .input-div {
+    width: 100%;    
+    position: relative;
+    margin-bottom: 20px;
+}
+
+#login .input-div label {
+    margin-bottom: 16px;
+}
+
+#login .input-div input {
+    width: 100%;
+    padding: 8px;
+}
+
+#login #warning {
+    font-size: 12px;
+    color: red;
+}
+
+#login #signin {
+    margin-top: 10px;
+}
+
+#login .extra {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+    margin-top: 20px;
+}
+
+#login .extra a {
+    margin-right: 12px;
+}
+
+#login .extra a:last-child {
+    margin-right: 0px;
+}
+
+#login .extra p {
+    font-size: 12px;
+}

@@ -1,0 +1,39 @@
+#find-id {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0px auto 60px auto;
+}
+
+#find-id .input-div {
+    margin-bottom: 20px;
+}
+
+#find-id .input-div label {
+    margin-right: 12px;
+}
+
+.id-info .id-num {
+    font-size: 16px;
+}
+.id-info span {
+    font-size: 20px;
+}
+.id-info p{
+    font-size: 12px;
+}
+
+.id-info ul {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px; 
+    gap: 4px;
+}
+.id-info li {
+    font-size: 20px;
+    margin-right: 12px;
+}
+#find-id button {
+    margin-top: 20px;
+}

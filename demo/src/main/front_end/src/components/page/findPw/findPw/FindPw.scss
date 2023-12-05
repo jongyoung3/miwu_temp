@@ -1,0 +1,27 @@
+#find-pw {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0px auto 60px auto;
+}
+
+#find-pw .input-div {
+    margin-bottom: 20px;
+}
+
+#find-pw .input-div input {
+    padding: 8px;
+}
+
+#find-pw .input-div label {
+    margin-right: 12px;
+}
+
+.pw-info {
+    margin-bottom: 20px;
+}
+
+.pw-info p {
+    font-size: 16px;
+}

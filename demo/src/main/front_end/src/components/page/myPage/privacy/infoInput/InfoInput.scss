@@ -1,0 +1,51 @@
+h1 {
+    margin-bottom: 20px;
+}
+
+.info-input {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.info-input .input-div {
+    width: 100%;    
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.info-input .lab {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+}
+
+// 중복 체크(버튼)
+.info-input button#change {
+    width: 120px;
+    padding: 8px;
+    height: 44px;
+}
+
+
+// 입력하는 곳
+.info-input .input-div input {
+    width: 100%;
+    padding: 8px;
+}
+
+.info-input p {
+    font-size: 12px;    
+}
+
+.info-input .condition {
+    margin-top: 12px;
+}
+
+.input-div #change {
+    width: 100px;
+}
+
